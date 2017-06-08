@@ -1,0 +1,4 @@
+module CStb {
+    umbrella header "/Users/john/Desktop/CStb/Sources/include/CStb.h"
+    export *
+}
